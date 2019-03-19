@@ -1,6 +1,6 @@
-**This is a mock repository representing my Front End work at Leanpath, Inc.** 
+**This is a mock repository.** 
 
-The aim of this repository is to report, in GitHub, my git contributions to the front end repository of online.leanpath.com without releasing any propriatary code. Of course all this information could be fabricated so you'll just have to take my word for it. Really though, this is just for me because Bitbucket doesn't have a nice easy way to display throughput over time, and I love seeing those greenboxes fill out ;).
+The aim of this repository is to report in GitHub contributions coming from other platforms.
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 

@@ -1,6 +1,6 @@
-**This is a mock repository.** 
+**This is a mock repository representing my Front End work at Leanpath, Inc.** 
 
-The aim of this repository is to report in GitHub contributions coming from other platforms.
+The aim of this repository is to report, in GitHub, my git contributions to the front end repository of online.leanpath.com without releasing any propriatary code. Of course all this information could be fabricated so you'll just have to take my word for it. Really though, this is just for me because Bitbucket doesn't have a nice easy way to display throughput over time, and I love seeing those greenboxes fill out ;).
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
@@ -21,5 +21,3 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
-lvfaavcmmw mhevxfhqdh
-konlkgxnbo oakrqdttto prnpuieakn sbphmsceee ppfjocsvco dimrulylpx ysgwgvidgq timnafxqoo xgllswavlv qrugktgygs
