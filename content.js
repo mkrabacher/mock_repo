@@ -1,1 +1,1 @@
-console.log("sbaqn")
+console.log("lgalo")
