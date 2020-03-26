@@ -1,2 +1,2 @@
 console.log("otfte")
-console.log("rqpuu")
+console.log("ktakw")
