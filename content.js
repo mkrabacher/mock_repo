@@ -1,2 +1,2 @@
 console.log("lekac")
-console.log("ltscy")
+console.log("oeeew")
