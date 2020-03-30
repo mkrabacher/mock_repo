@@ -1,3 +1,3 @@
 console.log("otfte")
 console.log("ktakw")
-console.log("rgeti")
+console.log("sticu")
