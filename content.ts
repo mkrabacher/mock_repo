@@ -1,2 +1,2 @@
 console.log("makah")
-console.log("segby")
+console.log("hjmya")
