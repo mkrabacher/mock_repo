@@ -1,1 +1,1 @@
-echo "jnhwa"
+echo "njews"
